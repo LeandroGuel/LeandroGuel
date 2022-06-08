@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @LeandroGuel
+- 👀 I’m interested in creating a system from scratch.
+- 🌱 I’m currently learning python.
+- 📒 Software Engineering 2022.2
+- 🌐 Instagram: @Leandro_guel
+- ✝️ Everything is permissible for me, but not everything suits me.
