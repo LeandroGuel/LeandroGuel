@@ -3,5 +3,5 @@
 </div>
 
 <div>
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeandroGuel&theme=transparent&show_icons=true">
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)(https://github.com/anuraghazra/github-readme-stats">
 </div>
